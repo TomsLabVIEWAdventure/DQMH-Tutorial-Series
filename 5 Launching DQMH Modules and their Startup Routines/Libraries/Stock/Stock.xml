@@ -1,0 +1,88 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>15.0.1</Version>
+<Array>
+<Name>Stock</Name>
+<Dimsize>5</Dimsize>
+<Cluster>
+<Name>Product</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Coke</Val>
+</String>
+<U32>
+<Name>Price (pence/cents)</Name>
+<Val>120</Val>
+</U32>
+<U32>
+<Name>Stock Level</Name>
+<Val>18</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Product</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Sprite</Val>
+</String>
+<U32>
+<Name>Price (pence/cents)</Name>
+<Val>120</Val>
+</U32>
+<U32>
+<Name>Stock Level</Name>
+<Val>21</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Product</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Fanta</Val>
+</String>
+<U32>
+<Name>Price (pence/cents)</Name>
+<Val>120</Val>
+</U32>
+<U32>
+<Name>Stock Level</Name>
+<Val>26</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Product</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Dairy Milk</Val>
+</String>
+<U32>
+<Name>Price (pence/cents)</Name>
+<Val>85</Val>
+</U32>
+<U32>
+<Name>Stock Level</Name>
+<Val>47</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Product</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Name</Name>
+<Val>Maltesers</Val>
+</String>
+<U32>
+<Name>Price (pence/cents)</Name>
+<Val>80</Val>
+</U32>
+<U32>
+<Name>Stock Level</Name>
+<Val>58</Val>
+</U32>
+</Cluster>
+</Array>
+</LVData>
