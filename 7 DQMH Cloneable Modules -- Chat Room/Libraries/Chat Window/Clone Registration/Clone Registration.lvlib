@@ -1,9 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="19008000">
+<Library LVVersion="15008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Chat Window.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Chat Window.lvlib</Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)=!!!*Q(C=\&gt;3R==*!%)8B:Y]$JX4AI988!CX1QA9U1/K1&amp;L9&amp;7K#&amp;&lt;9%7;%(_&gt;6[Q41#*0?0R7-=*?.,?@:S%J,%^3U_;\GW&lt;G^MY0O_GKXD[/$Z?6]@0":@3;&gt;3]$X?O\[$LP\&lt;TBY`Z2`XG5]GZ`I:_=`@H[X`\X`\W^HLX4`$D`Y-(T1]C?N'4(H2LHH9K]C)P]C)P]C*0]C20]C20]C10]C!0]C!0]C!XO=F.&lt;H+4GXQU=J',8/31CMG,C9J"CQ'+E['IW"7?QF.Y#A^@68A+4_%J0)7(5V2Y#E`B+4S&amp;BT)6HM*4?!J0Y7'I);H2S0%5(I:8YEE]C3@R*"[G6/**!-FES=$*)$#5(%Q_**\%EXDYK-34?"*0YEE](&amp;&lt;C34S**`%E(EL'KO41T)U=$]-I]!3?Q".Y!A^$+`!%HM!4?!)0USHQ"*Y!%5Q9$!Z"16&amp;Q1P!F]!1?XB2Y!E`A#4S"BU0D#M69G6ET.X)]RG-]RG-]RM-1-B\D-2\D-2['F@%9D`%9D`%QF9T(?)T(1-SE4#]TG#EU*ZH!?(C.O]8D+O71?$3J&lt;V\V4;G_W&gt;1XE@LG5&amp;^U^=658S4VYKM86&lt;V9[E61`TAV7IV24[)OHE`5C@W2@K$P[4P[FL[GL_B,_G)O`?944[?4DM?D$I?$^PO^&gt;LO&gt;NNONVOOV6KO6FMOF&amp;IP&amp;Z4(Q1LM]%(\$=_F8'"\V?1\7[!U21J2)!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)=!!!*Q(C=\&gt;3R==*!%)8B:Y]$JX4AI988!CX1QA9U1/K1&amp;L9&amp;7K#&amp;&lt;9%7;%(_&gt;6[Q41#*0?0R7-=*?.,?@:S%J,%^3U_;\GW&lt;G^MY0O_GKXD[/$Z?6]@0":@3;&gt;3]$X?O\[$LP\&lt;TBY`Z2`XG5]GZ`I:_=`@H[X`\X`\W^HLX4`$D`Y-(T1]C?N'4(H2LHH9K]C)P]C)P]C*0]C20]C20]C10]C!0]C!0]C!XO=F.&lt;H+4GXQU=J',8/31CMG,C9J"CQ'+E['IW"7?QF.Y#A^@68A+4_%J0)7(5V2Y#E`B+4S&amp;BT)6HM*4?!J0Y7'I);H2S0%5(I:8YEE]C3@R*"[G6/**!-FES=$*)$#5(%Q_**\%EXDYK-34?"*0YEE](&amp;&lt;C34S**`%E(EL'KO41T)U=$]-I]!3?Q".Y!A^$+`!%HM!4?!)0USHQ"*Y!%5Q9$!Z"16&amp;Q1P!F]!1?XB2Y!E`A#4S"BU0D#M69G6ET.X)]RG-]RG-]RM-1-B\D-2\D-2['F@%9D`%9D`%QF9T(?)T(1-SE4#]TG#EU*ZH!?(C.O]8D+O71?$3J&lt;V\V4;G_W&gt;1XE@LG5&amp;^U^=658S4VYKM86&lt;V9[E61`TAV7IV24[)OHE`5C@W2@K$P[4P[FL[GL_B,_G)O`?944[?4DM?D$I?$^PO^&gt;LO&gt;NNONVOOV6KO6FMOF&amp;IP&amp;Z4(Q1LM]%(\$=_F8'"\V?1\7[!U21J2)!!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
